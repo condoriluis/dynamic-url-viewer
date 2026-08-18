@@ -1,4 +1,4 @@
-# Dynamic Viewer
+# Dynamic Viewer Url
 
 Visor dinámico de contenido mediante una URL recibida como parámetro.
 
